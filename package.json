@@ -1,0 +1,20 @@
+{
+  "name": "portfolio-ga-clinic",
+  "version": "1.0.0",
+  "description": "G.A Clinic — Perfil, Alinhamento e Harmonia Facial — Website clone para portfólio",
+  "main": "index.html",
+  "scripts": {
+    "dev": "npx serve -l 3000 .",
+    "start": "npx serve -l 3000 ."
+  },
+  "keywords": [
+    "portfolio",
+    "ga-clinic",
+    "estetica",
+    "landing-page",
+    "perfiloplastia",
+    "harmonizacao-orofacial"
+  ],
+  "author": "",
+  "license": "ISC"
+}

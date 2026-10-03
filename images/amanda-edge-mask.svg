@@ -1,0 +1,6 @@
+<!-- Frontend-only mask hides the stray editorial text embedded at the cutout edge.
+     The original photograph and its optimized copy remain intact. -->
+<svg xmlns="http://www.w3.org/2000/svg" width="1672" height="941" viewBox="0 0 1672 941">
+  <defs><filter id="soft-edge" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="18"/></filter><mask id="edge"><rect width="1672" height="941" fill="white"/><rect x="0" y="807" width="340" height="250" rx="24" fill="black" filter="url(#soft-edge)"/></mask></defs>
+  <rect width="1672" height="941" fill="white" mask="url(#edge)"/>
+</svg>
