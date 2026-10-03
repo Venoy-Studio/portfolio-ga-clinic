@@ -66,5 +66,10 @@ Para proteger a privacidade e os canais de atendimento dos profissionais origina
 
 - **HTML5 Semântico:** Estrutura clara com marcos de acessibilidade (`header`, `main`, `section`, `dialog`, `footer`, ARIA tags).
 - **CSS3 Moderno:** Paleta sofisticada editorial com tons terrosos, dourado acetinado e tipografia nobre (Bodoni Moda & Cormorant Garamond).
-- **Vanilla JavaScript:** Sem dependências pesadas, com suporte a diálogo nativo para mobile, accordion expansível no FAQ e rolagem suave.
-- **Totalmente Responsivo:** Projetado com precisão para telas mobile (375px–390px) e monitores widescreen.
+- **Animações de Scroll com GSAP & ScrollTrigger:**
+  - Revelação de títulos cortados (`.title-reveal`) e parallax fluido na imagem hero.
+  - Análise anatômica na Perfiloplastia com desenho dinâmico de guias e marcadores (Nariz, Lábios, Mento).
+  - Pinned scrub morphing na seção das profissionais (Amanda Morais para Gabriela Carvalho com máscaras SVG).
+  - Transição cinematográfica do FAQ para o CTA de agendamento em fundo dourado escuro.
+- **Lenis Smooth Scroll:** Rolagem inercial de luxo ultra suave (momentum scroll), 100% offline.
+- **Totalmente Responsivo & Respeito a Movimento Reduzido:** Adaptado para mobile e compatível com `prefers-reduced-motion`.
